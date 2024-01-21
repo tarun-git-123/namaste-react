@@ -40,4 +40,8 @@ Whenever we have to use react router dom, first need to do the configer.
     createBrowserRouter will take a list of the path.
     Need to import RouterProvider . this RouterProvider is provide the routing configuration
 
+** Higher order Component (HOC)
+** Controller and uncontroller component
+** lifting state up
 
+** context API (state managemenet)
